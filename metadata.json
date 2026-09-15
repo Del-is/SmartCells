@@ -1,0 +1,8 @@
+{
+  "name": "SmartCells",
+  "description": "A smart learning and exam practice platform that uses Gemini to generate personalized practice tests, study materials, and an interactive AI study companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
